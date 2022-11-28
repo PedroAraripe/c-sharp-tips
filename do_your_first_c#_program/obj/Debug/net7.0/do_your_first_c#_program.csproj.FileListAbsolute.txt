@@ -1,0 +1,15 @@
+C:\Users\pedro\projects\github\c-sharp-tips\do_your_first_c#_program\bin\Debug\net7.0\do_your_first_c#_program.exe
+C:\Users\pedro\projects\github\c-sharp-tips\do_your_first_c#_program\bin\Debug\net7.0\do_your_first_c#_program.deps.json
+C:\Users\pedro\projects\github\c-sharp-tips\do_your_first_c#_program\bin\Debug\net7.0\do_your_first_c#_program.runtimeconfig.json
+C:\Users\pedro\projects\github\c-sharp-tips\do_your_first_c#_program\bin\Debug\net7.0\do_your_first_c#_program.dll
+C:\Users\pedro\projects\github\c-sharp-tips\do_your_first_c#_program\bin\Debug\net7.0\do_your_first_c#_program.pdb
+C:\Users\pedro\projects\github\c-sharp-tips\do_your_first_c#_program\obj\Debug\net7.0\do_your_first_c#_program.csproj.AssemblyReference.cache
+C:\Users\pedro\projects\github\c-sharp-tips\do_your_first_c#_program\obj\Debug\net7.0\do_your_first_c#_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\projects\github\c-sharp-tips\do_your_first_c#_program\obj\Debug\net7.0\do_your_first_c#_program.AssemblyInfoInputs.cache
+C:\Users\pedro\projects\github\c-sharp-tips\do_your_first_c#_program\obj\Debug\net7.0\do_your_first_c#_program.AssemblyInfo.cs
+C:\Users\pedro\projects\github\c-sharp-tips\do_your_first_c#_program\obj\Debug\net7.0\do_your_first_c#_program.csproj.CoreCompileInputs.cache
+C:\Users\pedro\projects\github\c-sharp-tips\do_your_first_c#_program\obj\Debug\net7.0\do_your_first_c#_program.dll
+C:\Users\pedro\projects\github\c-sharp-tips\do_your_first_c#_program\obj\Debug\net7.0\refint\do_your_first_c#_program.dll
+C:\Users\pedro\projects\github\c-sharp-tips\do_your_first_c#_program\obj\Debug\net7.0\do_your_first_c#_program.pdb
+C:\Users\pedro\projects\github\c-sharp-tips\do_your_first_c#_program\obj\Debug\net7.0\do_your_first_c#_program.genruntimeconfig.cache
+C:\Users\pedro\projects\github\c-sharp-tips\do_your_first_c#_program\obj\Debug\net7.0\ref\do_your_first_c#_program.dll
